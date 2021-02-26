@@ -1,0 +1,5 @@
+image: simorgh1/ubuntu:v2
+
+tasks:
+- command: echo info
+- command: aws --version
