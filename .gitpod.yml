@@ -1,5 +1,5 @@
-image: simorgh1/ubuntu:v2
+image:
+  file: .gitpod.Dockerfile
 
 tasks:
-- command: echo info
 - command: aws --version
