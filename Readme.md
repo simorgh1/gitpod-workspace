@@ -18,6 +18,6 @@ This environment is for developing AWS Serverless applications, following tools 
 
 ## Starting the gitpod environment
 
-Simply click [this link](https://gitpod.io/#https://github.com/simorgh1/gitpod-workspace/tree/use-ecr-devcontainer) and Gitpod will create your environment.
+Simply click [this link](https://gitpod.io/#https://github.com/simorgh1/gitpod-workspace) and Gitpod will create your environment.
 
 After Startup, docker daemon is started, and you may switch to your workspace in a new Terminal.
