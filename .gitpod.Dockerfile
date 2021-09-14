@@ -1,4 +1,4 @@
-FROM public.ecr.aws/e7k4n5n9/ubuntu:wsl
+FROM public.ecr.aws/e7k4n5n9/ubuntu:v2
 
 ### Gitpod user ###
 # '-l': see https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#user
