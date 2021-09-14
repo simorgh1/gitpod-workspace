@@ -1,10 +1,14 @@
-# Gitpod dev environment for AWS Serverless applications
+# Gitpod dev environment
 
-This environment is for developing AWS Serverless applications using [SAM](https://aws.amazon.com/serverless/sam/).
+This environment is for developing AWS Serverless applications, following tools are pre installed:
 
-## Pre installed extensions
+- [SAM](https://aws.amazon.com/serverless/sam/) for defining the infrastructure, packaging, deployment or debugging lambda functions. - aws-cli
+- docker
+- git
+- jq for aws-cli query
+- terraform
 
-Following vscode extensions are pre installed:
+## Pre installed vscode extensions
 
 - Gitlens
 - Docker
@@ -16,4 +20,4 @@ Following vscode extensions are pre installed:
 
 Simply click [this link](https://gitpod.io/#https://github.com/simorgh1/gitpod-workspace/tree/use-ecr-devcontainer) and Gitpod will create your environment.
 
-After Startup, docker daemon is started.
+After Startup, docker daemon is started, and you may switch to your workspace in a new Terminal.
