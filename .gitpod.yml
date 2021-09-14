@@ -2,5 +2,4 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-- command: sudo /var/run/docker.sock
-- command: sudo docker-up
+- command: sudo /var/run/docker.sock && sudo docker-up
