@@ -3,7 +3,7 @@ image:
 
 tasks:
 - command: code --install-extension eamodio.gitlens
-- command: code install-extension davidanson.vscode-markdownlint
+- command: code --install-extension davidanson.vscode-markdownlint
 - command: code --install-extension amazonwebservices.aws-toolkit-vscode
 - command: code --install-extension ms-python.python
 - command: sudo rm /var/run/docker.sock && sudo docker-up
