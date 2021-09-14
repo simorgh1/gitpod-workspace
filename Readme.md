@@ -1,4 +1,4 @@
-# Gitpod environment for AWS Serverless application development
+# Gitpod dev environment for AWS Serverless applications
 
 This environment is for developing AWS Serverless applications using [SAM](https://aws.amazon.com/serverless/sam/).
 
