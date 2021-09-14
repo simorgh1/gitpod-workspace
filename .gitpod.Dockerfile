@@ -1,4 +1,4 @@
-FROM simorgh1/ubuntu:v2
+FROM docker/dev-environments-default:stable-1
 
 ### Gitpod user ###
 # '-l': see https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#user
